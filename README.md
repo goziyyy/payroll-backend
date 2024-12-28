@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # payroll-backend
 Test PT. Idemu Sistem Sinergi
 =======
@@ -51,4 +51,3 @@ Berikut adalah beberapa screenshot dari proyek ini:
 -   NestJS
 -   TypeScript
 -   OpenAPI (Swagger)
->>>>>>> master
